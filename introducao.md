@@ -3,9 +3,9 @@
 
 # Introdução
 
-#### [Studyt-Backend](https://github.com/Studyt/studyt-front)
+#### [Studyt-Frontend](https://github.com/Studyt/studyt-front)
 
-#### [Studyt-Frontend](https://github.com/Studyt/studyt-back)
+#### [Studyt-Backend](https://github.com/Studyt/studyt-back)
 
 ## Sobre
 

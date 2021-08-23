@@ -6,7 +6,7 @@
 
 Seguimos o modelo de branch do gitflow, como pode ser visto na imagem abaixo:
 
-![Gitflow](gitflow.jpeg)
+<!-- ![Gitflow](gitflow.jpeg) -->
 
 ### 2.1 Repositórios
 
