@@ -8,10 +8,14 @@
   - [Especificação de Casos de Uso](docs/projeto/especificacaocasosdeuso)
   - [Minimo Produto Viável](docs/projeto/mvp)
 - Projeto
-  - [Modelo Canvas](docs/projeto/canvas)
+  - [Planejamento do Grupo](docs/projeto/planejamentodoGrupo.md)
+  - [Visão Geral do Projeto](docs/projeto/documentovisaoProjeto.md)
+  - [Modelo Canvas](docs/projeto/mvp.md)
   - [Metodologia](docs/projeto/metodologia)
 - Gerencia
   - [Gerência de Configuração de Software](docs/projeto/planogerencia)
+  - [Plano de Gerenciamento de Comunicações](docs/projeto/gerenciamentoComunicacoes.md)
+  
 - Backlog
   - [Backlog do Produto](docs/projeto/backlog)
  
