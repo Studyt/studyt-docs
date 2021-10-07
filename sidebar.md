@@ -15,8 +15,8 @@
   <!-- - [Gerência de Configuração de Software](docs/projeto/planogerencia) -->
   - [Plano de Gerenciamento de Comunicações](docs/projeto/gerenciamentoComunicacoes.md)
   
-- Backlog
-  - [Backlog do Produto](docs/projeto/backlog)
+<!-- - Backlog
+  - [Backlog do Produto](docs/projeto/backlog) -->
  
 - Reuniões
   <!-- - [Sprints](docs/projeto/reunioes.md) -->
